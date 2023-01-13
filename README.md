@@ -7,7 +7,7 @@ AN Instant Messenger created with QT
 
 ## 1.1项目名称
 
-即时通讯软件Linpop
+即时通讯软件IMChat
 
 ## 1.2项目目标
 
